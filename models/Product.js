@@ -1,5 +1,5 @@
 module.exports = (DataTypes, DataTypes) => {
-    const Product = DataTypes.define('Produk', {
+    const Product = DataTypes.define('Product', {
         id: {
             type: DataTypes.INTEGER,
             primaryKey: true,
